@@ -1,0 +1,6 @@
+class Demo{
+public static void demo()
+{
+System.out.prinln("hello world");
+}
+}
